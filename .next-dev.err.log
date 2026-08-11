@@ -1,0 +1,114 @@
+C:\Users\RahulKumar\.codex\tmp\arg0\codex-arg0OxqLpI : The term 'C:\Users\RahulKumar\.codex\tmp\arg0\codex-arg0OxqLpI' 
+is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, 
+or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ C:\Users\RahulKumar\.codex\tmp\arg0\codex-arg0OxqLpI;C:\WINDOWS\syste ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\RahulK...odex-arg0OxqLpI:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\WINDOWS\system32 : The term 'C:\WINDOWS\system32' is not recognized as the name of a cmdlet, function, script file, 
+or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and 
+try again.
+At line:1 char:54
++ ... hulKumar\.codex\tmp\arg0\codex-arg0OxqLpI;C:\WINDOWS\system32;C:\WIND ...
++                                               ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\WINDOWS\system32:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\WINDOWS : The term 'C:\WINDOWS' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:74
++ ... odex\tmp\arg0\codex-arg0OxqLpI;C:\WINDOWS\system32;C:\WINDOWS;C:\WIND ...
++                                                        ~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\WINDOWS:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\WINDOWS\System32\Wbem : The term 'C:\WINDOWS\System32\Wbem' is not recognized as the name of a cmdlet, function, 
+script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is 
+correct and try again.
+At line:1 char:85
++ ... xqLpI;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WIND ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\WINDOWS\System32\Wbem:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\ : The term 'C:\WINDOWS\System32\WindowsPowerShell\v1.0\' is not recognized 
+as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:110
++ ... OWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WIND ...
++                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\WINDOWS\Syst...owerShell\v1.0\:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\WINDOWS\System32\OpenSSH\ : The term 'C:\WINDOWS\System32\OpenSSH\' is not recognized as the name of a cmdlet, 
+function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the 
+path is correct and try again.
+At line:1 char:154
++ ... System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Prog ...
++                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\WINDOWS\System32\OpenSSH\:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+x86 : The term 'x86' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:201
++ ... hell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Common ...
++                                                               ~~~
+    + CategoryInfo          : ObjectNotFound: (x86:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Program : The term 'C:\Program' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:242
++ ... am Files (x86)\Common Files\Intuit\QBPOSSDKRuntime;C:\Program Files\M ...
++                                                        ~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Program:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\RahulKumar\AppData\Local\Microsoft\WindowsApps : The term 
+'C:\Users\RahulKumar\AppData\Local\Microsoft\WindowsApps' is not recognized as the name of a cmdlet, function, script 
+file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct 
+and try again.
+At line:1 char:281
++ ... VS Code\bin;C:\Users\RahulKumar\AppData\Local\Microsoft\WindowsApps;C ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\RahulK...oft\WindowsApps:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Users\RahulKumar\AppData\Local\OpenAI\Codex\bin\3e42d49ad3e35a50 : The term 
+'C:\Users\RahulKumar\AppData\Local\OpenAI\Codex\bin\3e42d49ad3e35a50' is not recognized as the name of a cmdlet, 
+function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the 
+path is correct and try again.
+At line:1 char:337
++ ... WindowsApps;C:\Users\RahulKumar\AppData\Local\OpenAI\Codex\bin\3e42d4 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\RahulK...e42d49ad3e35a50:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+C:\Program : The term 'C:\Program' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:405
++ ... ar\AppData\Local\OpenAI\Codex\bin\3e42d49ad3e35a50;C:\Program Files\W ...
++                                                        ~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Program:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Unable to fetch the `Request.cf` object! Falling back to a default placeholder...
+Error: unable to get local issuer certificate
+    at TLSSocket.onConnectSecure (node:internal/tls/wrap:1649:34)
+    at TLSSocket.emit (node:events:508:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at TLSSocket._finishInit (node:internal/tls/wrap:1095:8)
+    at ssl.onhandshakedone (node:internal/tls/wrap:881:12)
+Error: spawn EPERM
+    at ChildProcess.spawn (node:internal/child_process:421:11)
+    at Object.spawn (node:child_process:796:9)
+    at Runtime.updateConfig (C:\Users\RahulKumar\Documents\Codex\2026-08-10\i-want-to-built-a-website\node_modules\miniflare\dist\src\index.js:69762:63)
+    at async #assembleAndUpdateConfig (C:\Users\RahulKumar\Documents\Codex\2026-08-10\i-want-to-built-a-website\node_modules\miniflare\dist\src\index.js:89169:30)
+    at async Mutex.runWith (C:\Users\RahulKumar\Documents\Codex\2026-08-10\i-want-to-built-a-website\node_modules\miniflare\dist\src\index.js:58160:48) {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'spawn'
+}
